@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.herokuapp.com/type=rect&color=1a1b26&height=180&section=header&text=ROSHAN%20SHARMA&fontSize=50&fontColor=7aa2f7&animation=fadeIn&desc=%5B%20SYSTEM%20ARCHITECT%20%3A%3A%20AI%20ORCHESTRATION%20%5D&descSize=16&descAlignY=65" width="100%" alt="Gaming Header" />
+  <samp>
+    <b>// OPERATOR NODE ACTIVATED //</b><br>
+    <font size="7" color="#7aa2f7"><b>ROSHAN SHARMA</b></font><br>
+    <font size="3" color="#bb9af7">SYSTEM ARCHITECT • AI ORCHESTRATION</font>
+  </samp>
 </p>
 
 <p align="center">
