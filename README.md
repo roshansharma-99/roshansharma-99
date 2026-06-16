@@ -8,6 +8,10 @@
   <a href="mailto:roshansharma12001@gmail.com">📧 Email Me</a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile_Views-500%2B-orange?style=flat-square" />⚡<img src="https://komarev.com/ghpvc/?username=roshansharma-99&color=orange&style=flat-square&label=Live_Session_Hits" alt="Profile Views" />
+</p>
+
 ---
 
 # 🎨 ~~I AM PICASO~~ → ROSHAN SHARMA
@@ -58,30 +62,17 @@
 
 ---
 
-## 📊 Performance Matrix & Real-time Pulse
+## 📊 Performance Matrix & Stack Balance
 
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=roshansharma-99&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="Roshan's Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshansharma-99&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="100%" alt="Roshan's Top Languages" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshansharma-99&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="100%" alt="Roshan's Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api?username=roshansharma-99&show_icons=true&theme=tokyonight&hide_border=true&hide=commits,prs,issues,stars&rank_icon=github" width="100%" alt="Roshan's Overview" />
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshansharma-99&theme=tokyonight&hide_border=true" width="100%" alt="Roshan's Commit Streak" />
-</p>
-
----
-
-## 🛡️ Verified Accolades
-<p align="left">
-  <a href="https://holopin.io/@roshansharma-99" target="_blank">
-    <img src="https://holopin.io/api/user/badge/embed/@roshansharma-99" alt="Holopin Badges" width="100%" />
-  </a>
-</p>
 
 ---
